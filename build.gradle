@@ -26,15 +26,14 @@ publishing {
         }
 
     }
-    repositories {
-        maven {
-            name = "SimpleAdditionLibrary"
-            url = "https://github.com/paramdveer/SimpleAdditionLibrary.git"
-            credentials {
-                username = "param.8965@gmail.com"
-                password = "123@Hash"
-            }
-        }
-    }
-
+//    repositories {
+//        maven {
+//            name = "SimpleAdditionLibrary"
+//            url = "https://github.com/paramdveer/SimpleAdditionLibrary.git"
+//            credentials {
+//                username = "param.8965@gmail.com"
+//                password = "123@Hash"
+//            }
+//        }
+//    }
 }
